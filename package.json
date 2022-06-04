@@ -1,0 +1,28 @@
+{
+  "name": "Legrand Lucas homepage",
+  "version": "1.0.0",
+  "description": "Legrand Lucas portfolio",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev -H 0.0.0.0",
+    "build": "next build",
+    "prettier": "prettier -write .",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "Legrand Lucas",
+  "license": "MIT",
+  "dependencies": {
+    "@chakra-ui/react": "^2.1.2",
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "framer-motion": "^6.3.10",
+    "next": "^12.1.6",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  },
+  "devDependencies": {
+    "eslint-config-next": "^12.1.6",
+    "prettier": "^2.6.2"
+  }
+}
