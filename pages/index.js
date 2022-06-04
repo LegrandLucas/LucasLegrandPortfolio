@@ -12,7 +12,7 @@ const index = () => {
                   <Heading as="h2" variant="page-title">
                       Lucas Legrand
                   </Heading>
-                  <p>alias Pouetpouet (developer, gamer, burger flipper)</p>
+                  <p>alias Pouetpouet (developer, gamer, mountains lover, burger flipper)</p>
               </Box>
           </Box>
       </Container>
